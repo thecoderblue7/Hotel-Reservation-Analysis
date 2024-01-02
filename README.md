@@ -1,7 +1,7 @@
 # Hotel-Reservation-Analysis
 Hotel Reservation Analysis: Visualizations and insights derived from Tableau, showcasing trends in booking rates, occupancy, demographics, and revenue
 
-### Sample Report: Hotel Reservation Analysis in Tableau
+### Hotel Reservation Analysis in Tableau
 
 #### 1. Booking Trends Over Time
 - Created a line chart in Tableau displaying reservation trends over time.
